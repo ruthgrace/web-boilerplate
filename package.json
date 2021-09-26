@@ -10,7 +10,8 @@
   },
   "devDependencies": {
     "audiosprite": "^0.7.2",
-    "snowpack": "^3.5.2"
+    "snowpack": "^3.5.2",
+    "postcss": "^8.3.6"
   },
   "dependencies": {
     "phaser": "3.55.2"
